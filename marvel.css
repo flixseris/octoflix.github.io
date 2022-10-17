@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(51, 51, 51);
+}
+svg{
+    width: 50px;
+}
+img{
+    width: 150px;
+    margin-left: 10px;
+}

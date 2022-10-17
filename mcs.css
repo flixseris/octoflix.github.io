@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(51, 51, 51);
+}
+svg{
+    width: 50px;
+}
+video{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
